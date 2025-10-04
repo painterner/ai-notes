@@ -2,5 +2,5 @@
 ai toolkits recorder
 
 ## 图片说话
-hunyuanvideo-avatar
-heygen
+* hunyuanvideo-avatar
+* heygen
